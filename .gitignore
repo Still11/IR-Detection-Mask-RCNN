@@ -1,0 +1,3 @@
+dataset/university/*.png
+.*.swp
+**/*.pyc
